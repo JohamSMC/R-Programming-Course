@@ -1,5 +1,8 @@
 # R-Programming-Course
-Course on R programming conducted on the COURSERA platform.
+[![GitHub User](https://img.shields.io/badge/GitHub-JohamSMC-red?style=plastic&logo=github&link=https://github.com/JohamSMC)](https://github.com/JohamSMC)
+![GitHub License](https://img.shields.io/github/license/JohamSMC/get-User-Tweets?style=style=flat-square)
+
+**Course on R programming conducted on the COURSERA platform.**
 
 [**Course link**: R Programming](https://www.coursera.org/learn/r-programming)
 
